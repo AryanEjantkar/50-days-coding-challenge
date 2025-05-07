@@ -8,6 +8,8 @@ Linkedlistcycle.cpp is the fourth problem solved in day 4 of 50 days coding chal
 
 Palindromelinkedlist.cpp is the fifth problem solved in day 5 of 50 days coding challenge. 
 
+removelistelement.cpp is the sixth problem solved in day 5 of 50 days coding challenge. 
+
 
 
  
