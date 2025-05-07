@@ -4,7 +4,10 @@ Middlelinkedlist.cpp is the second problem solved in day 2 of 50 days coding cha
 
 Mergetwolist.cpp is the third problem solved in day 3 of 50 days coding challenge. 
 
-Linkedlistcycle.cpp is the fourth problem sloved in day 4 of 50 days coding challenge. 
+Linkedlistcycle.cpp is the fourth problem solved in day 4 of 50 days coding challenge. 
+
+Palindromelinkedlist.cpp is the fifth problem solved in day 5 of 50 days coding challenge. 
+
 
 
  
