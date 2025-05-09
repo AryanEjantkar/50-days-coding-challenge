@@ -10,6 +10,10 @@ Palindromelinkedlist.cpp is the fifth problem solved in day 5 of 50 days coding 
 
 Removelistelement.cpp is the sixth problem solved in day 5 of 50 days coding challenge. 
 
+Rotatelistelement.cpp is the seventh problem solved in day 5 of 50 days coding challenge. 
+
+OddEvenElementlist.cpp is the eighth problem sloved in day 8 of 50 days coding challenge. 
+
 
 
  
